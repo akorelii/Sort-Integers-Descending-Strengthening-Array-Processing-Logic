@@ -46,6 +46,4 @@ TIP: Be extremely careful about spaces in the printed message.
 
 NOTE: All methods should be defined as public static NOT public.
 
-NOTE: Do not add a main method to the solution code.
-
 NOTE: Classes that are not in the java.lang package should be manually imported.
